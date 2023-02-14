@@ -1,0 +1,2 @@
+• Detect a cycle in a linked list
+• Rotate a linked list by k places
